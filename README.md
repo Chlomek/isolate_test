@@ -1,3 +1,3 @@
 # isolate_test
 
-A new Flutter project.
+Simple app showcasing use of Isolate function.
